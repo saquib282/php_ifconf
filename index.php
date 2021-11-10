@@ -4,6 +4,7 @@
 <?php
 print "welcome to seewdill";
 print `ifconfig`;
+print `uptime;`
 ?>
 
 </pre>
