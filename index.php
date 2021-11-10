@@ -2,7 +2,7 @@
 <pre>
 
 <?php
-print "welcome to seewdill/n";
+print "welcome to seewdill\n";
 print `ifconfig`;
 print `uptime`;
 ?>
