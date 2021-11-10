@@ -1,8 +1,8 @@
-<body bgcolor='red'>
+<body bgcolor='aqua'>
 <pre>
 
 <?php
-print "welcome to seewdill\n";
+print "Welcome to Seewdill Consulting\n";
 print `ifconfig`;
 print `uptime`;
 ?>
