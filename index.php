@@ -1,4 +1,4 @@
-<body bgcolor='white'>
+<body bgcolor='yellow'>
 <pre>
 
 <?php
